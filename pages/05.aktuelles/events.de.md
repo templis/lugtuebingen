@@ -33,6 +33,6 @@ content:
     order:
         by: date
         dir: asc
-    limit: '0'
+    limit: '10'
     pagination: false
 ---
