@@ -3,6 +3,7 @@ title: Links
 ---
 
 <br><br><br><br>
+
 | URL | Beschreibung |
 | ------- | ----------- |
 | [Linux Wiki](http://linuxwiki.org/)  | Das Linux Wiki |
@@ -24,7 +25,7 @@ title: Links
 | [diverse Cheat Sheets](http://overapi.com/) | Viele Cheat Sheets für unterschiedliche Probleme von Action Script bis Zen Coding |
 | [Hardening SSH](https://stribika.github.io/2015/01/04/secure-secure-shell.html) | Wie man SSH sicher macht, unsichere Cryptos und Certs raus schmeißt (englisch) |
 | [diverse Guides um Dienste sicher zu machen](https://bettercrypto.org/) | Ein Securityguide für viele Dienste. Wenn Du Admin bist, unbedingt lesen, am besten Forken und immer wieder updaten (englisch) |
-|  **Awesome Software Sammlungen**  | |
+|  **Awesome Software Sammlungen**   |
 | [Awesome List](https://github.com/sindresorhus/awesome) | Eine Liste mit Awesome Sammlungen zu diversen Themen |
-| [Awesome Linux Software Sammlung](https://github.com/LewisVo/Awesome-Linux-Software) | Diverse Software unterteilt in Funktion. Außerdem Eine Liste mit Guides und anderen links|
-| [Awesome Sysadmin Linux Sammlung](https://github.com/kahun/awesome-sysadmin) | Diverse Software für Sysadmins unterteilt in Funktion|
+| [Awesome Linux Software Sammlung](https://github.com/LewisVo/Awesome-Linux-Software) | Diverse Software unterteilt in Funktion. Außerdem Eine Liste mit Guides und anderen links |
+| [Awesome Sysadmin Linux Sammlung](https://github.com/kahun/awesome-sysadmin) | Diverse Software für Sysadmins unterteilt in Funktion |
