@@ -7,6 +7,19 @@ event:
     end: '10-11-2018 13:30'
     location: 'Stadtbücherei Tübingen'
     coordinates: '9.053475, 48.520007'
+    items:
+        '@taxonomy':
+            type: event
+            event_repeat: ''
+            event_freq: ''
+    dateRange:
+        start: '2018-04-21'
+        end: ''
+    order:
+        by: date
+        dir: asc
+    limit: '10'
+    pagination: '1'
 ---
 
 Den Besuchern werden auf dem [Linux Presentation Day](http://www.linux-presentation-day.de/) verschiedene Linux-Systeme präsentiert. Diese können sie gleich vor Ort ausprobieren. Erfahrene Anwender der Linux User Group Tübingen und Reutlingen geben erste Orientierung und beantworten typische Fragen rund um das alternative Betriebssystem, wie nach dem Bezug, der Software, der Sicherheit oder möglicher Unterstützung.
