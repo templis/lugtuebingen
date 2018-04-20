@@ -34,5 +34,5 @@ content:
         by: date
         dir: asc
     limit: '10'
-    pagination: false
+    pagination: true
 ---
