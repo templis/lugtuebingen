@@ -1,10 +1,5 @@
 ---
 title: Aktuelles
-process:
-    markdown: true
-    twig: true
-admin:
-    children_display_order: collection
 content:
     items:
         '@taxonomy':
@@ -12,8 +7,13 @@ content:
     order:
         by: date
         dir: asc
-    limit: '10'
+    limit: '0'
     pagination: false
+process:
+    markdown: true
+    twig: true
+admin:
+    children_display_order: collection
 ---
 
 {% set events =
