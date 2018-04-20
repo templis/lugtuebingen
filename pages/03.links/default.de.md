@@ -4,7 +4,7 @@ title: Links
 
 <br><br><br>
 | URL | Beschreibung |
-| ------ | ----------- |
+| ------- | ----------- |
 | [Linux Wiki](http://linuxwiki.org/)  | Das Linux Wiki |
 | [Debian Anwenderbuch von Addison&Wesley](http://debiananwenderhandbuch.de/) | Das Debian Anwenderbuch auch lesenswert für langjährige Anwender |
 | [The linux documentation project (englisch)](http://www.tldp.org/) | The Linux Documentation Project (englisch) |
