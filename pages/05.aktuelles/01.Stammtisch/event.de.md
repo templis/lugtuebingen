@@ -1,8 +1,8 @@
 ---
 title: Stammtisch
 event:
-    start: '17-04-2018 20:00'
-    end: '17-04-2018 00:00'
+    start: '15-05-2018 20:00'
+    end: '15-05-2018 00:00'
     repeat: T
     freq: monthly
     location: 'Marquardtei, Herrenberger Str. 34, im Nebenzimmer Silcherstube'
@@ -14,7 +14,7 @@ content:
             event_repeat: ''
             event_freq: ''
     dateRange:
-        start: '2018-04-21'
+        start: '2018-05-15'
         end: ''
     order:
         by: date
