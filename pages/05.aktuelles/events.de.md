@@ -15,7 +15,6 @@ content:
     page.collection({
         'items':{
             '@taxonomy.type':'event',
-            '@taxonomy.event_repeat':['S','U']
         }
     })
     .dateRange(datetools.startOfMonth, datetools.endOfMonth)
