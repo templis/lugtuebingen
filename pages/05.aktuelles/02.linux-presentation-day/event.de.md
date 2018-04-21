@@ -2,7 +2,7 @@
 title: 'Linux Presentation Day'
 event:
     start: '20-04-2018 10:30'
-    end: '17-04-2018 13:30'
+    end: '20-04-2018 13:30'
     location: 'Stadtbücherei Tübingen'
     coordinates: '9.053475, 48.520007'
     items:
