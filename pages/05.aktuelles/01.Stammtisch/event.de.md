@@ -1,7 +1,7 @@
 ---
 title: Stammtisch
 event:
-    start: '15-05-2018 20:00'
+    start: '15-01-2019 20:00'
     end: '15-05-2020 00:00'
     repeat: T
     freq: monthly
