@@ -1,5 +1,6 @@
 ---
 title: 'Linux Presentation Day'
+published: false
 admin:
     children_display_order: collection
 event:
