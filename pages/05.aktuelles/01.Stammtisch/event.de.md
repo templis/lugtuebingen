@@ -19,7 +19,7 @@ content:
     order:
         by: date
         dir: asc
-    limit: '10'
+    limit: '3'
     pagination: '1'
 ---
 
