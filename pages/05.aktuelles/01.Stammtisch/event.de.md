@@ -2,7 +2,7 @@
 title: Stammtisch
 event:
     start: '15-05-2018 20:00'
-    end: '15-05-2018 00:00'
+    end: '15-05-2020 00:00'
     repeat: T
     freq: monthly
     location: 'Marquardtei, Herrenberger Str. 34, im Nebenzimmer Silcherstube'
